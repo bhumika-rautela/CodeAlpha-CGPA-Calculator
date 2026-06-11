@@ -1,0 +1,11 @@
+4.0
+0
+2
+Semester 1
+3
+Mathematics I,A,4
+Physics Lab,B+,3
+Computer Programming,A-,4
+Semester 2
+1
+Physics II,A,3
