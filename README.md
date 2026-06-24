@@ -1,4 +1,4 @@
-# AeroGrade — C++ GPA & CGPA Calculator Command Line Interface
+# AeroGrade — C++ GPA & CGPA Calculator Command Line Interface (CLI)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0-indigo.svg)](package.json)
